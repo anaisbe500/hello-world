@@ -1,2 +1,3 @@
 Hello, it is nice to document all the CLI statements before i forget! I do love to document my projects.
+Remember, to add appl, version, author, vendor etc for references later on.
 Thanks
